@@ -1,0 +1,1 @@
+MODEL_NAME = 'digit_recognition.tf_model'
